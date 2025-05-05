@@ -5,13 +5,13 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 0
-    path: Assets/Scenes/SampleScene.unity
-    guid: 8c9cfa26abfee488c85f1582747f6a02
+  - enabled: 1
+    path: Assets/Scenes/Start.unity
+    guid: 52337dffda3b56d4c85f90a05a8ac0d7
   - enabled: 1
     path: Assets/Scenes/YigitScene.unity
     guid: 84f427bb1e2b4114aaf14bfd9ab1512d
   - enabled: 1
-    path: Assets/Scenes/SonrakiScene.unity
-    guid: c266ed238b476284e85398d4eb7ebdca
+    path: Assets/Scenes/EsraScene.unity
+    guid: 8c9cfa26abfee488c85f1582747f6a02
   m_configObjects: {}
